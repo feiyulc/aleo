@@ -2,7 +2,9 @@
 
 ### 版本号
 
-2.7.6
+2.8.4
+- Optimized the performance on GPU, improving it by 10%~20%
+- Solved the problem of device offline when the puzzle difficulty increase
 
 ### start
 
